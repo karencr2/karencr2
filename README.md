@@ -1,6 +1,6 @@
-- 👋 oii eu sou a karen 
+### 👋 oii eu sou a karen 
 
-        🌱 estudante de eng. de software
+      🌱 estudante de eng. de software
 
 
 
