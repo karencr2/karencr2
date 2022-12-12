@@ -5,9 +5,8 @@
 
 
 
-- 🎂 22 Anos
+- 🎂 23 Anos
 - 💼 Atualmente buscando oportunidades.
-- ❤️ Gosto de Front-end.
 - 🎓 Cursando eng. de software.
       
 
@@ -43,7 +42,7 @@
 <kbd>Estudando:</kbd>
  <br />
  <br />
-      <img align="center" title="ElectronJS" alt="ElectronJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
+      
   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
   <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <br />
