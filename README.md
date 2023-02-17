@@ -6,7 +6,7 @@
 
 
 
-- 💼 Atualmente buscando oportunidades.
+
 - 🎓 Cursando eng. de software.
       
 
