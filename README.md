@@ -1,4 +1,4 @@
-## 👋 oii, bem vindo(a) ao meu espaço! 
+## 👋 oii, bem vindo(a) ao meu Github 🤓
 
 
 #### estudante de programação que ama técnologia!
