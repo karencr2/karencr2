@@ -1,7 +1,7 @@
 ## 👋 oii, bem vindo(a) ao meu Github 🤓
 
 
-#### estudante de programação que ama técnologia!
+#### estudante que ama técnologia!
 
 
 
