@@ -7,8 +7,7 @@
 
 
 
-- 🎓 Cursando eng. de software.
-      
+    
 
 
  
