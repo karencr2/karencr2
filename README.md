@@ -1,7 +1,7 @@
 ## 👋 oii, bem vindo(a) ao meu Github 🤓
 
 
-#### estudante que ama técnologia!
+#### Graduanda em Engenharia de Software. Apaixonada por análise de dados e desenvolvimento web.
 
 
 
